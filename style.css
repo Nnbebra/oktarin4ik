@@ -361,8 +361,8 @@ height: 50%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    width: 327px;
-    height: 161px;
+    width: 350px;
+    height: 230px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -534,4 +534,8 @@ footer{
         font-size: 15px;
     }
  
+}
+.tim{
+    width: 125px;
+    height: 125px;
 }
